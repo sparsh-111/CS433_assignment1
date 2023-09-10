@@ -5,8 +5,8 @@ for question 1 :
 (b) The number of flows observed by your program and their 4-tuple.
 
 total number of flows observed :
+four tuple:
 
-four tuple:-
 ![Alt text](image.png) 
 
 
